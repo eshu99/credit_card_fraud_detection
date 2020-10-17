@@ -7,4 +7,4 @@ Trained and tested the model, used Flask framework to build an API that runs on 
 Created an AWS EC2 instance and deployed the model
 
 Here's the credit card fraud detector tool built -
-http://ec2-46-137-228-84.ap-southeast-1.compute.amazonaws.com:8080
+http://ec2-13-229-65-48.ap-southeast-1.compute.amazonaws.com:8080/
