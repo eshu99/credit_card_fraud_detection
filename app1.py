@@ -21,7 +21,7 @@ def predict():
     prediction = model.predict(final_input)
 
     output = ''
-    if(prediction[0] == 0):
+    if(prediction[0] == 1):
         output = 'Fraudulent'
     else:
         output = 'Normal'
